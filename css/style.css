@@ -348,3 +348,7 @@ body {
   #searchBtn { width: 100%; }
   .search-block h1 { font-size: 23px; }
 }
+[hidden] {
+  display: none !important;
+}
+
